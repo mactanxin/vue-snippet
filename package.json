@@ -1,11 +1,12 @@
 {
     "name": "trusfort-vue-template",
     "publisher": "mactanxin",
+    "repository": "https://github.com/mactanxin/vue-snippet.git",
     "displayName": "trusfort-vue-template",
     "description": "a vue template snippet followed trusfort FE standard",
-    "version": "2.0.0",
+    "version": "1.0.1",
     "engines": {
-        "vscode": "^1.43.0"
+        "vscode": "^1.41.0"
     },
     "categories": [
         "Snippets"
