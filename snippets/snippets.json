@@ -1,0 +1,15 @@
+{
+  "trusfort-vue": {
+    "prefix": "vuet",
+    "body": [
+      "<!----------  @author: ${1:author}  ----------->",
+      "<!----------  @updated_at: ${2:date}  ----------->",
+      "<!----------  @version: ${3:version}  ----------->",
+      "",
+      "<template></template>",
+      "<script></script>",
+      "<style></style>"
+    ],
+    "description": "vue template for trusfort"
+  }
+}

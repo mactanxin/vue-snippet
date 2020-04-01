@@ -1,0 +1,21 @@
+{
+    "name": "trusfort-vue-template",
+    "publisher": "mactanxin",
+    "displayName": "trusfort-vue-template",
+    "description": "a vue template snippet followed trusfort FE standard",
+    "version": "2.0.0",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "vue",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
